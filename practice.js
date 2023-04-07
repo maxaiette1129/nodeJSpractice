@@ -1,9 +1,2 @@
-const amount = 12
+console.log(__filename);
 
-if(amount == 2){
-    console.log("Good job")
-}else {
-    console.log("boo")
-}
-
-console.log('hey it power ranger');
