@@ -1,7 +1,0 @@
-{
-    "gitlens.codeLens.enabled": true,
-    "gitlens.codeLens.authors.enabled": true,
-    "gitlens.codeLens.recentChange.enabled": true,
-    "gitlens.statusBar.enabled": true,
-    "gitlens.statusBar.pullRequests.enabled": true
-}
